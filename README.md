@@ -1,5 +1,3 @@
-<!-- Default Statcounter code for MS24-00599
-https://github.com/MS24-00599/MS24-00599 -->
 <script type="text/javascript">
 var sc_project=13182905;
 var sc_invisible=1;
